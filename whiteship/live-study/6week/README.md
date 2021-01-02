@@ -1,10 +1,13 @@
 ## 6주차 과제: 상속
+
 https://github.com/whiteship/live-study/issues/6
 
 ### 목표
+
 자바의 상속에 대해 학습하세요.
 
 ### 학습할 것 (필수)
+
 - 자바 상속의 특징
 - super 키워드
 - 메소드 오버라이딩
