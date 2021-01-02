@@ -51,25 +51,31 @@ JVM이 이해할 수 있는 코드
 
 #### JIT 컴파일러란 무엇이며 어떻게 동작하는지
 
+JIT 컴파일러는 컴파일러에 의해 생성한 바이트코드를 런타임에 기계어로 변환하는 컴파일러
+바이트코드를 컴퓨터가 이해할 수 있는 명령어로 바꾸는 프로그램
+
+JIT는 기존 Interpreter 방식의 단점을 보완하면서 정적 컴파일러와 비슷한 성능을 가져올 수 있다.
+이제 C가 가진 장점까지 하나 둘 가져오는 것이라고나 할까? 
+
 #### JVM 구성 요소
 
-1. Class Loader
+- Class Loader
 
 클래스나 클래스의 인스턴스를 생성하면 메모리에 로드
 
-2. GC (Garbage Collector)
+- GC (Garbage Collector)
 
 메모리를 정리 도구
 GC 알고리즘을 선택하여 실행 할 수 있다.
 
 C 개발자는 너무 부러워 할 얘기다.
 
-3. Execution Engine
+- Execution Engine
 
 메모리에 로드 된 바이트코드를 실행
 인터프리터 방식 or JIT 방식으로 실행
 
-4. Runtime Data Area
+- Runtime Data Area
 
 JVM의 메모리 영역
 
