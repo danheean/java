@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## 2주차 과제: 자바 데이터 타입, 변수 그리고 배열
 
-You can use the [editor on GitHub](https://github.com/danheean/java/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+https://github.com/whiteship/live-study/issues/2
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 목표
 
-### Markdown
+자바의 프리미티브 타입, 변수 그리고 배열을 사용하는 방법을 익힙니다.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 학습할 것
 
-```markdown
-Syntax highlighted code block
+- 프리미티브 타입 종류와 값의 범위 그리고 기본 값
+- 프리미티브 타입과 레퍼런스 타입
+- 리터럴
+- 변수 선언 및 초기화하는 방법
+- 변수의 스코프와 라이프타임
+- 타입 변환, 캐스팅 그리고 타입 프로모션
+- 1차 및 2차 배열 선언하기
+- 타입 추론, var
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/danheean/java/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 학습 내용
