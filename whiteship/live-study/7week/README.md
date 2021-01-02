@@ -1,10 +1,13 @@
 ## 7주차 과제: 패키지
+
 https://github.com/whiteship/live-study/issues/7
 
 ### 목표
+
 자바의 패키지에 대해 학습하세요.
 
 ### 학습할 것 (필수)
+
 - package 키워드
 - import 키워드
 - 클래스패스
@@ -13,4 +16,4 @@ https://github.com/whiteship/live-study/issues/7
 - 접근지시자
 
 ### 학습 내용
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
