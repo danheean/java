@@ -1,37 +1,24 @@
-## Welcome to GitHub Pages
+## 5주차 과제: 클래스
 
-You can use the [editor on GitHub](https://github.com/danheean/java/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+https://github.com/whiteship/live-study/issues/5
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 목표
 
-### Markdown
+자바의 Class에 대해 학습하세요.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### 학습할 것 (필수)
 
-```markdown
-Syntax highlighted code block
+- 클래스 정의하는 방법
+- 객체 만드는 방법 (new 키워드 이해하기)
+- 메소드 정의하는 방법
+- 생성자 정의하는 방법
+- this 키워드 이해하기
 
-# Header 1
-## Header 2
-### Header 3
+### 과제 (Optional)
 
-- Bulleted
-- List
+- int 값을 가지고 있는 이진 트리를 나타내는 Node 라는 클래스를 정의하세요.
+- int value, Node left, right를 가지고 있어야 합니다.
+- BinrayTree라는 클래스를 정의하고 주어진 노드를 기준으로 출력하는 bfs(Node node)와 dfs(Node node) 메소드를 구현하세요.
+- DFS는 왼쪽, 루트, 오른쪽 순으로 순회하세요.
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/danheean/java/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 학습 내용
