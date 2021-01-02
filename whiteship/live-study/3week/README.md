@@ -4,34 +4,21 @@ You can use the [editor on GitHub](https://github.com/danheean/java/edit/main/RE
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### 목표
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+자바가 제공하는 다양한 연산자를 학습하세요.
 
-```markdown
-Syntax highlighted code block
+### 학습할 것
 
-# Header 1
-## Header 2
-### Header 3
+- 산술 연산자
+- 비트 연산자
+- 관계 연산자
+- 논리 연산자
+- instanceof
+- assignment(=) operator
+- 화살표(->) 연산자
+- 3항 연산자
+- 연산자 우선 순위
+- (optional) Java 13. switch 연산자
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/danheean/java/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### 학습 
