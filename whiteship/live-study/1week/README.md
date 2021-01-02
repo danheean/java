@@ -2,6 +2,8 @@
 
 https://github.com/whiteship/live-study/issues/1
 
+https://danheean.github.io/java/whiteship/live-study/1week/
+
 ### 목표
 
 자바 소스 파일(.java)을 JVM으로 실행하는 과정 이해하기.
